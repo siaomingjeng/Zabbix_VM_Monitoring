@@ -1,6 +1,8 @@
 # Zabbix_VM_Monitoring
 
-This is just a draft for VM monitoring! This is still in testing period!
+This is just a draft for VM monitoring!
+
+This is still in testing period!
 
 Zabbix VM Monitoring Daemon in Openstack Environment!
 
